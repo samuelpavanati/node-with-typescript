@@ -8,6 +8,18 @@ npx tsc (warning - converte de ts para js)
 pnpm run build
 npx tsx src/index.ts (executa o projeto direto na linha de comando)
 tsc (converte em .js na pasta configurada no outDir)
+pnpm i eslint -D
+pnpm create @eslint/config
+pnpm i prettier eslint-plugin-prettier eslint-config-prettier -D
+pnpm i zod
+pnpm i fastify
+```
+
+# Run
+```
+pnpm i
+pnpm run dev
+npx tsx src/index.ts
 ```
 
 # Tutorials
