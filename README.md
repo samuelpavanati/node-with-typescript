@@ -12,4 +12,5 @@ tsc (converte em .js na pasta configurada no outDir)
 
 # Tutorials
 [GitHub](https://github.com/especializati/intro-typescript/tree/main)
+
 [YouTube](https://www.youtube.com/watch?v=lMl6QzR60a4&list=PLVSNL1PHDWvQIXGCsgDuvZ8ee1eFZ-8r6&index=2)
